@@ -12,3 +12,5 @@ Fix the data frame. At the end, row should have the following columns:
 - topic: str (python or go)
 - earnings: np.float64
 """
+# do this later;
+# %%

@@ -10,5 +10,9 @@ mask = df.eval('name.isnull() | distance <= 0')
 mask
 
 # %%
-df = df[~mask]
+df2 = df[~mask]
+df2
+
+# %%
 df
+# %%
